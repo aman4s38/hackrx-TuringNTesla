@@ -7,6 +7,7 @@ aiofiles
 # LLM & LangChain Core
 langchain
 langchain-core
+langchain-community # <-- THIS WAS MISSING
 langchain-google-genai
 langchain-openai
 
